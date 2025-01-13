@@ -1,0 +1,3 @@
+C:/proga/OS/OSLab2/CMakeFiles/ALL_BUILD.dir
+C:/proga/OS/OSLab2/CMakeFiles/ZERO_CHECK.dir
+C:/proga/OS/OSLab2/OSLab2/CMakeFiles/OSLab2.dir
